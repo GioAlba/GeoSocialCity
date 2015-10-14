@@ -1,0 +1,2 @@
+# GeoSocialCity
+Applicazione per IOS 
