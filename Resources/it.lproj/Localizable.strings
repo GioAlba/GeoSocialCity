@@ -1,0 +1,216 @@
+/* No comment provided by engineer. */
+"Insert your Source address \n\n\n\n\n" = "Inserisci il tuo indirizzo \n\n\n\n\n";
+
+/* No comment provided by engineer. */
+"Add Source" = "Aggiungi fonte";
+
+/* First tabbar icon */
+"Camera" = "Camera";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancella";
+
+/* No comment provided by engineer. */
+"Format:www.example.com" = "http://www.esempio.com";
+
+/* No comment provided by engineer. */
+"General Info" = "Informazioni generali";
+
+/* No comment provided by engineer. */
+"License" = "Licenza";
+
+/* 3 tabbar icon */
+"List View" = "Lista";
+
+/* 4 tabbar icon */
+"Map" = "Mappa";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"Not Allowed" = "Non permesso";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Poi List" = "Lista delle Poi";
+
+/* No comment provided by engineer. */
+"Radius" = "Raggio";
+
+/* 2 tabbar icon */
+"Sources" = "Fonti";
+
+"Insert link" = "Inserisci link";
+
+"Scan QR code" = "Scansione QR code";
+
+"Choose an option to insert source" = "Scegli una opzione per inserire fonte";
+
+"Add source" = "Aggiungere la sorgente";
+
+"Title" = "Titolo";
+
+"You can only delete your own sources!" = "È possibile eliminare solo le proprie fonti!";
+
+"Data input" = "Data Entry";
+
+"Choose your data input method." = "Scegli il tuo metodo di immissione dei dati.";
+
+"No input possibility found" = "Nessuna possibilità di ingresso trovato";
+
+"Added title already exists" = "Il titolo aggiunto esiste già";
+
+"You have to fill all inputs" = "È necessario completare tutti i campi";
+
+"Pull down to refresh..." = "Trascinare verso il basso per aggiornare...";
+
+"Release to refresh..." = "Rilasciare per aggiornare...";
+
+"Loading..." = "Per carico...";
+
+"Main menu" = "Menu principale";
+
+"Close" = "Chiudi";
+
+"I am here" = "Sono qui";
+
+"Find route" = "Percorso";
+
+"Guest House" = "Pensione";
+
+"Shelter" = "Rifugio";
+
+"Youth-Hostel" = "Ostello della Gioventu'";
+
+"College" = "Collegio";
+
+"Kindergarten" = "Asilo";
+
+"School" = "Scuola";
+
+"Beergarden" = "Beergarden";
+
+"Fast food" = "Fast food";
+
+"Ice cream" = "Gelateria";
+
+"Restaurant" = "Ristorante";
+
+"Chemist" = "Detervisvi";
+
+"Dentist" = "Dentista";
+
+"Doctor" = "Dottore";
+
+"Emergency" = "Emergenza";
+
+"Hearing aid" = "Apparecchiature acustiche";
+
+"Hospital" = "Ospedale";
+
+"Optician" = "Ottico";
+
+"Pharmacy" = "Farmacia";
+
+"Veterinary" = "Veterinario";
+
+"Arts Centre" = "Centro per le arti";
+
+"Fishing" = "Pescheria";
+
+"Garden" = "Giardino";
+
+"Music venue" = "Luogo per la Musica";
+
+"Nature Reserve" = "Riserva Naturale";
+
+"Park" = "Parco";
+
+"Picnic site" = "Sito per Picnic";
+
+"Playground" = "Parco Giochi";
+
+"Theater" = "Teatro";
+
+"Theme park" = "Parco a tema";
+
+"Water park" = "Parco acquatico";
+
+"Bank" = "Banca";
+
+"Exchange" = "Cambio";
+
+"Religion" = "Religione";
+
+"Administration" = "Amministrazioni";
+
+"Shop" = "Negozi";
+
+"Bakery" = "Panificio";
+
+"Beverages" = "Bevande";
+
+"Books" = "Libreria";
+
+"Butcher" = "Macelleria";
+
+"Clothes" = "Vestiti";
+
+"Computer" = "Computer";
+
+"Confectioner" = "Pasticceria";
+
+"Department store" = "Grande magazzino";
+
+"Doit your self" = "Fai da te";
+
+"Florist" = "Fiorario";
+
+"Fish" = "Pescheria";
+
+"Flea Market" = "Mercato delle pulci";
+
+"Fruits" = "Fruttivendolo";
+
+"Furniture" = "Arredamento";
+
+"Games" = "Negozio Giochi";
+
+"Garden Centre" = "Centro per il giardinaggio";
+
+"Hi-Fi" = "Hi-Fi";
+
+"Kiosk" = "Chiosco";
+
+"Laundry" = "Lavanderia";
+
+"lighting" = "Illuminazione";
+
+"Mall" = "Centro commerciale";
+
+"Music" = "Music";
+
+"Perfumery" = "Profumeria";
+
+"Pet Shop" = "Negozio per Animali";
+
+"Print Shop" = "Copisteria";
+
+"Print Store" = "Negozio stampa";
+
+"Stationery" = "Cartoleria";
+
+"Toys" = "Negozio giocattoli";
+
+"Vending Machine" = "Distributore Automatico";
+
+"Wine" = "Vineria";
+
+"Tourism" = "Turismo";
+
+"Parking" = "Parcheggi";
+
+"AroundMe(max 5km)" = "Tutto (max 5km)";
